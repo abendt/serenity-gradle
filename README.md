@@ -24,7 +24,7 @@ flow
 ```
 
 However, adding after adding another test `ZTest` no reports will be generated!
-Restore `ZTest` and run the tests via gradle.`
+Restore `ZTest` and run the tests via gradle.
 
 ```
 $ git restore src/test/kotlin/demo/ZTest.k
