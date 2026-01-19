@@ -6,7 +6,7 @@ Running the test `SerenityTest` via IntelliJ will successfully generate report f
 
 ```
 $ ./gradlew clean
-# run tests via IDE
+# run SerenityTest via IDE
 $ ls target/site/serenity
 52ba3c8e88ca68169a7eb29fb253d7bfe75b22c4b70523d35a748246eb14f0b3.json  SERENITY-JUNIT-52ba3c8e88ca68169a7eb29fb253d7bfe75b22c4b70523d35a748246eb14f0b3.xml
 flow
